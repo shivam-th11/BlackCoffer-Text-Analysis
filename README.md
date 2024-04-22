@@ -14,6 +14,8 @@ The text_analysis.py script retrieves data from web pages, performs text process
 
 
 [Objective.docx](https://github.com/shivam-th11/BlackCoffer-Text-Analysis/files/15059784/Objective.docx)
+
+
 [Text Analysis.docx](https://github.com/shivam-th11/BlackCoffer-Text-Analysis/files/15059802/Text.Analysis.docx)
 
 
