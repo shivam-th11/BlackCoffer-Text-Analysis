@@ -10,8 +10,12 @@ This repository contains Python code for analyzing textual data extracted from w
 The text_analysis.py script retrieves data from web pages, performs text processing tasks such as tokenization and filtering, and calculates various metrics including polarity score, subjectivity score, average sentence length, and more.
 
 
+**Introduction Files**
+
 
 [Objective.docx](https://github.com/shivam-th11/BlackCoffer-Text-Analysis/files/15059784/Objective.docx)
+[Text Analysis.docx](https://github.com/shivam-th11/BlackCoffer-Text-Analysis/files/15059802/Text.Analysis.docx)
+
 
 **Features**
 
